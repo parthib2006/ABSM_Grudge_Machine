@@ -1,0 +1,16 @@
+Function 1,Function 2,Cohen_d
+Linear,Polynomial,-275.4085
+Linear,ReLU,4.8885
+Linear,Sine,2.3362
+Linear,Gaussian,7.404
+Linear,tanh,6.7744
+Polynomial,ReLU,287.8179
+Polynomial,Sine,308.9758
+Polynomial,Gaussian,303.8784
+Polynomial,tanh,282.7953
+ReLU,Sine,-3.349
+ReLU,Gaussian,2.2755
+ReLU,tanh,2.136
+Sine,Gaussian,6.3719
+Sine,tanh,5.6023
+Gaussian,tanh,0.1145

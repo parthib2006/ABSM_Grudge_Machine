@@ -1,0 +1,13 @@
+dataset,Function,Offset,mean,std,count
+random_extra,Cubic,0.0,0.0,0.0,20
+random_extra,Cubic,0.1,4384.264399026356,3855.5980619431803,20
+random_extra,Quadratic,0.0,0.0,0.0,20
+random_extra,Quadratic,0.1,1.604512649999967,24.751269874056856,20
+random_extra,Quartic,0.0,0.0,0.0,20
+random_extra,Quartic,0.1,94593.29410332574,1362259.5896770416,20
+same,Cubic,0.0,0.0,0.0,20
+same,Cubic,0.1,380.15494450853186,924.4338515914067,20
+same,Quadratic,0.0,0.0,0.0,20
+same,Quadratic,0.1,-0.011084999999978962,7.304444913807668,20
+same,Quartic,0.0,0.0,0.0,20
+same,Quartic,0.1,74.14529213589557,130787.43207988224,20

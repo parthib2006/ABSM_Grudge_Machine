@@ -1,0 +1,5 @@
+dataset,offset,friedman_stat,p_value
+same,0.0,,
+same,0.1,6.100000000000023,0.04735892439114039
+random_extra,0.0,,
+random_extra,0.1,10.300000000000011,0.005799404726842111

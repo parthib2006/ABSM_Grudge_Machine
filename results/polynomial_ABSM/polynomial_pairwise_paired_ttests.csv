@@ -1,0 +1,13 @@
+dataset,offset,pair,t_stat,p_value,p_bonf
+same,0.0,Quadratic vs Cubic,,,
+same,0.0,Quadratic vs Quartic,,,
+same,0.0,Cubic vs Quartic,,,
+same,0.1,Quadratic vs Cubic,-1.839107480622381,0.08158113702462554,0.2447434110738766
+same,0.1,Quadratic vs Quartic,-0.002535830433294921,0.9980031381970971,1.0
+same,0.1,Cubic vs Quartic,0.010463597563313132,0.9917604977618497,1.0
+random_extra,0.0,Quadratic vs Cubic,,,
+random_extra,0.0,Quadratic vs Quartic,,,
+random_extra,0.0,Cubic vs Quartic,,,
+random_extra,0.1,Quadratic vs Cubic,-5.085951106241496,6.56387886400026e-05,0.00019691636592000778
+random_extra,0.1,Quadratic vs Quartic,-0.3105384428583629,0.7595323499880324,1.0
+random_extra,0.1,Cubic vs Quartic,-0.2961230278486032,0.7703484701137143,1.0
